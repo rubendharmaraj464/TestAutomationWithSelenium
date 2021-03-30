@@ -7,6 +7,11 @@ namespace TestAutomation
 {
     class ExcelHandle
     {
+        public void test()
+        {
+            //code
+        }
+
         public void ExcelOperations()
         {
             Excel.Application xlapp;

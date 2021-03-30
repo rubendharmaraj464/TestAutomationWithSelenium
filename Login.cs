@@ -24,6 +24,12 @@ namespace TestAutomation
          //  driver = new ChromeDriver("D:\\SeleniumC#\\Software\\chromedriver_win32");
         }
 
+        [Test]
+        public void Github()
+        {
+            //CODE
+        }
+
 
         [Test]
         public void LaunchApp()
